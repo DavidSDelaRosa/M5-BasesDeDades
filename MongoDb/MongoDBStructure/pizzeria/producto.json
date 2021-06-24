@@ -1,0 +1,20 @@
+{
+    "_id" : ObjectId("602e90o7e02e67j057ad749kl"),
+    "producto_id" : 1,
+    "nombre" : "carbonara",
+    "descripcion" : "nata, cebolla, champiñones, bacon y queso",
+    "categoria" : "pizza"
+    "imagen" : "/resources/pizzas/pizza_carbonara.svg",
+    "precio" : 10.99
+
+}
+{
+    "_id" : ObjectId("602e90l9802e67j057ad7499ol"),
+    "producto_id" : 2,
+    "nombre" : "4 quesos",
+    "descripcion" : "queso azul, queso parmesano, mozzarella y queso suave",
+    "categoria" : "pizza"
+    "imagen" : "/resources/pizzas/pizza_4_quesos.svg",
+    "precio" : 9.99
+
+}

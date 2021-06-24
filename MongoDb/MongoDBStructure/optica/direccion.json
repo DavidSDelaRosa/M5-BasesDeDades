@@ -1,0 +1,36 @@
+{
+    "_id" : ObjectId("602cef176fad0cbedd8c30bf"), 
+    "direccion_id" : 1,
+    "cliente_id" : 7,
+    "calle" : "Inventada 1",
+    "numero" : 45,
+    "piso" : 3,
+    "puerta" : "C",
+    "ciudad" : "Barcelona",
+    "codigo_postal" : 454545,
+    "pais" : "España"
+}
+{
+    "_id" : ObjectId("234c34576fad0cbedd6780bf"), 
+    "direccion_id" : 2,
+    "proveedor_id" : 3,
+    "calle" : "Inventada 9",
+    "numero" : 95,
+    "piso" : 1,
+    "puerta" : "A",
+    "ciudad" : "Barcelona",
+    "codigo_postal" : 45674,
+    "pais" : "España"
+}
+
+{
+    "_id" : ObjectId("198cef176fad0678ddiop0bf"), 
+    "direccion_id" : 3,
+    "calle" : "Inventada 6",
+    "numero" : 91,
+    "piso" : 2,
+    "puerta" : "D",
+    "ciudad" : "Barcelona",
+    "codigo_postal" : 12674,
+    "pais" : "España"
+}

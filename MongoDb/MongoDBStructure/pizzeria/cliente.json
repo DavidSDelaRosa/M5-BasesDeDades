@@ -1,0 +1,23 @@
+{
+   "_id" : ObjectId("602e2953e02e114057ad74b6"), 
+   "cliente_id" : 1,
+   "nombre" : "Quique",
+   "apellido" : "Gonzalez",
+   "direccion": "Avenida Aleatoria, 20",
+   "codigo_postal" :  78786,
+   "localidad_id" : 2,
+   "provincia_id" : 1,
+   "telefono" : 545543432
+}
+
+{
+    "_id" : ObjectId("602e2945t02e11409kad78k0"), 
+    "cliente_id" : 2,
+    "nombre" : "Ramon",
+    "apellido" : "Perez",
+    "direccion": "Avenida Aleatoria, 43",
+    "codigo_postal" :  78096,
+    "localidad_id" : 1,
+    "provincia_id" : 1,
+    "telefono" : 545543432
+ }

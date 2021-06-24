@@ -1,0 +1,7 @@
+{
+    "_id" : ObjectId("611cf6e36fadkf8edd8c7fk"), 
+    "pedido_id" : 1,
+    "empleado_id" : 4,
+    "cliente_id" : 2,
+    "fecha_pedido" : ISODate("2021-08-18T23:00:00.000+0000")
+}

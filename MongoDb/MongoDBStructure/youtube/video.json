@@ -1,0 +1,26 @@
+{
+    "_id" : ObjectId("602e2tg7e09ol14057ad90kl"), 
+    "video_id" : 1,
+    "titulo" : "Mejores momentos APM",
+    "descripcion" : "Recopilacion mejores momentos APM abril",
+    "tamanyo" : 2109.2,
+    "nombre_archivo" : "mejores_momentos_abril_apm.mp4",
+    "duracion" : 600.6,
+    "thumbnail" : "/resources/youtube/thn/apm_abril.svg",
+    "numero_reproducciones" : 234090,
+    "numero_likes" : 20451,
+    "numero_dislikes" : 86,
+    "estado" : "publico",
+    "etiquetas" : [{"etiqueta_id" : 3, "nombre_tag" : "apm"}, {"etiqueta_id" : 4, "nombre_tag" : "television"}],
+    "usuario" : {
+        "usuario_id" : 2,
+        "email" : "usr_yt2001@mail.com",
+        "password" : "345678",
+        "nombre" : "usr2001_bcn",
+        "fecha de nacimiento" : "2/11/2001",
+        "sexo" : "M",
+        "pais" : "Portugal",
+        "codigo_postal" : 23454
+    },
+    "fecha_creacion" : ISODate("2020-01-01T00:00:00.000+0000")
+}

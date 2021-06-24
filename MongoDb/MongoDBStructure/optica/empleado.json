@@ -1,0 +1,11 @@
+{
+    "_id" : ObjectId("602cf1956lñd0cbeddpo30c0"),
+    "empleado_id" : 1,
+    "nombre" : "Fernando"
+}
+
+{
+    "_id" : ObjectId("609lo1956liojfbeddpo30c0"),
+    "empleado_id" : 2,
+    "nombre" : "Francesc"
+}

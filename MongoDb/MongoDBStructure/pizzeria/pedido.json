@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("602e2k9oe02e903057ad77fh"), 
+    "pedido_id" : 1,
+    "cliente_id" : 3,
+    "pizzeria_id" : 3,
+    "fecha_pedido" : ISODate("2021-05-23T21:00:00.000+0000"), 
+    "tipo" : "domicilio",
+    "precio" : 23.99,
+    "fecha_entrega" : ISODate("2021-06-23T21:00:00.000+0000"), 
+    "repartidor" : "Jose",
+    "productos" : [
+        {"producto_id" : 1, "cantidad" : 1},
+        {"producto_id ": 3, "cantidad" : 2}]
+}

@@ -1,0 +1,10 @@
+{
+    "_id" : ObjectId("602e2afee02e114057ad74b8"), 
+    "empleado_id" : 1,
+    "pizzeria_id" : 4,
+    "nombre" : "Carlos",
+    "Apellido" : "Moreno",
+    "NIF" : "786787984D",
+    "telefono" : 676565454,
+    "trabajo" : "repartidor"
+}

@@ -1,0 +1,28 @@
+{
+    "_id" : ObjectId("978ce65c6fad0cbedd8c30be"), 
+    "cliente_id" : 1,
+    "name" : "Albert",
+    "codigo_postal" : 98905,
+    "telefono" : 890789678,
+    "mail" : "a.bert@kmail.com",
+    "fecha_registro" : ISODate("2021-05-17T23:00:00.000+0000"),
+    "recomendado" : false,
+    "recomendado_por" : ""
+
+}
+
+{
+    "_id" : ObjectId("782ce65c567d0cbed89f30be"), 
+    "cliente_id" : 2,
+    "name" : "Eric",
+    "codigo_postal" : 94305,
+    "telefono" : 890269678,
+    "mail" : "erick@kmail.com",
+    "fecha_registro" : ISODate("2021-01-17T23:00:00.000+0000"),
+    "recomendado" : true,
+    "recomendado_por" :{
+        "empleado_id" : 7,
+        "nombre" : "Francesc"
+    } 
+
+}

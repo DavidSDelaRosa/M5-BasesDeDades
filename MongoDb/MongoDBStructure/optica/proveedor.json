@@ -1,0 +1,33 @@
+{
+    "_id" : ObjectId("610cf6e36fadfg5edd8c39k8"), 
+    "nombre" : "ProGlasses",
+    "telefono" : 878987678,
+    "fax" : 989878767,
+    "NIF" : "67876765K",
+    "direccion" : {
+        "calle" : "Inventada 1",
+        "numero" : 45,
+        "piso" : 3,
+        "puerta" : "C",
+        "ciudad" : "Barcelona",
+        "codigo_postal" : 45454,
+        "pais" : "España"
+    }
+}
+
+{
+    "_id" : ObjectId("610cf6e36fadfg5edd8c30l6"), 
+    "nombre" : "GafasTop",
+    "telefono" : 767848939,
+    "fax" : 345678467,
+    "NIF" : "98987675G",
+    "direccion" : {
+        "calle" : "Inventada 2",
+        "numero" : 98,
+        "piso" : 4,
+        "puerta" : "B",
+        "ciudad" : "Barcelona",
+        "codigo_postal" : 56576,
+        "pais" : "España"
+    }
+}

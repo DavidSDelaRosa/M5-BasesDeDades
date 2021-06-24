@@ -1,0 +1,7 @@
+{
+    "_id" : ObjectId("610cf9fl6fajdbedd8c30l9"), 
+    "detalle_pedido_id" : 1,
+    "pedido_id" : 3,
+    "gafas_id" : 6,
+    "cantidad" : 1
+}

@@ -1,0 +1,12 @@
+{
+    "_id" : ObjectId("612cf2acft6d0cbedd8c3lo1"), 
+    "gafas_id" : 1,
+    "proveedor_id" : 5,
+    "marca" : "Rai Van",
+    "graduacion" : [2.5, 1.5],
+    "tipo_montura" : "madera",
+    "color_vidrio" : "negro",
+    "color_montura" : "rojo",
+    "precio" : 23.99
+}
+

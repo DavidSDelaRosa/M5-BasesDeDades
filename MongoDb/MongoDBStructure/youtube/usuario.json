@@ -1,0 +1,24 @@
+{
+    "_id" : ObjectId("602e2afee02e114057ad74b8"), 
+    "usuario_id" : 1,
+    "email" : "usuario_yt2000@mail.com",
+    "password" : "123456",
+    "nombre" : "usr2000_bcn",
+    "fecha de nacimiento" : "12/12/2000",
+    "sexo" : "H",
+    "pais" : "Francia",
+    "codigo_postal" : 12354
+
+}
+{
+    "_id" : ObjectId("602e2afee09ol14057ad789o"), 
+    "usuario_id" : 2,
+    "email" : "usr_yt2001@mail.com",
+    "password" : "345678",
+    "nombre" : "usr2001_bcn",
+    "fecha de nacimiento" : "2/11/2001",
+    "sexo" : "M",
+    "pais" : "Portugal",
+    "codigo_postal" : 23454
+
+}

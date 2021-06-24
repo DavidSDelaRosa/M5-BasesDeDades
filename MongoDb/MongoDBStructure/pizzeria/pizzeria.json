@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("602e2fa9e02e114057ad74bb"), 
+    "pizzeria_id" : 1,
+    "direccion" : "Avenida Aleatoria 32",
+    "codigo_postal" : 43456,
+    "localidad_id" : 2,
+    "provincia_id" : 3,
+    "empleados" : [{
+        "nombre" : "Pablo", "apellido" : "Roses", "NIF" : "78965645Y", "telefono" : 909876543, "trabajo" : "cocinero"
+    }, 
+    {
+        "nombre" : "David", "apellidos" : "Raluy", "NIF" : "898765456U", "telefono" : 890876789, "trabajo" : "repartidor"
+    }]
+}

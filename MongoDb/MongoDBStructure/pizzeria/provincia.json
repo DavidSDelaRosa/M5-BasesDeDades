@@ -1,0 +1,12 @@
+{
+    "_id" : ObjectId("602e8794e02e115647ad9ol"),
+    "privincia_id" : 1,
+    "provincia_name" : "Barcelona",
+
+}
+{
+    "_id" : ObjectId("602e8678e02e154647ad9pd"),
+    "privincia_id" : 2,
+    "provincia_name" : "Lleida",
+    
+}

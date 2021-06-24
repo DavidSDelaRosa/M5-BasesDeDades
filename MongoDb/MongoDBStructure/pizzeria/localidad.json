@@ -1,0 +1,12 @@
+{
+    "_id" : ObjectId("602e2c5GH02e114678ad78J8"),
+    "localidad_id" : 1,
+    "provincia_id" : 1,
+    "localidad_name" :  "Barcelona"
+}
+{
+    "_id" : ObjectId("602e2c5GHJ8e114678ad78L0"),
+    "localidad_id" : 2,
+    "provincia_id" : 1,
+    "localidad_name" :  "Hospitalet"
+}

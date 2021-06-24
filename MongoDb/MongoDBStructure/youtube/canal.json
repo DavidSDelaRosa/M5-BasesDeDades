@@ -1,0 +1,16 @@
+{
+    "_id" : ObjectId("602e42a3e02e114057ad74c3"), 
+    "canal_id" : 1,
+    "nombre_canal" : "Arte libre",
+    "descripcion_canal" : "Arte como liberación y sin censuras",
+    "fecha_creacion" : ISODate("2020-01-01T00:00:00.000+0000")
+
+}
+{
+    "_id" : ObjectId("602e42a3e02e114057ad709l"), 
+    "canal_id" : 2,
+    "nombre_canal" : "Jardineria y cuidados",
+    "descripcion_canal" : "Cuidados del jardín así como mejores prácticas en la jardineria",
+    "fecha_creacion" : ISODate("2020-01-01T00:00:00.000+0000")
+
+}
